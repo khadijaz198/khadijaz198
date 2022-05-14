@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @khadijaz198
+- 👋 Hi, I’m Khadija Zafar
 - 👀 I’m interested in developing a career in Computer Science.
 - 🌱 I’m currently studying in Computer Programming program at Algonquin College.
 - 📫 You can reach me at zafa0003@algonquinlive.com
